@@ -1,8 +1,0 @@
-; BIND file for bepublished.online - GitHub Pages
-; Import this via Cloudflare DNS > Import DNS Records
-
-bepublished.online.	300	IN	A	185.199.108.153
-bepublished.online.	300	IN	A	185.199.109.153
-bepublished.online.	300	IN	A	185.199.110.153
-bepublished.online.	300	IN	A	185.199.111.153
-www.bepublished.online.	300	IN	CNAME	bepublished-online.github.io.
